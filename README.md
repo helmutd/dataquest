@@ -8,5 +8,5 @@ Some projects made during attending the Data Scientist Path with DataQuest
 * [Analyzing Thanksgiving Dinner](https://github.com/helmutd/dataquest/blob/master/Analyzing%20Thanksgiving%20Dinner.ipynb)
 	* Using the pandas package to analyze what Americans eat for Thanksgiving dinner
 
-* [Visualizing Earnings Based On College Majors](https://github.com/helmutd/dataquest/blob/master/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
+* [Visualizing Earnings Based On College Majors](https://github.com/helmutd/dataquest/blob/master/Visualizing%20Earnings%20Based%20on%20College%20Majors.ipynb)
 	* Using the pandas plotting functionality to explore data quickly using visualizations.
