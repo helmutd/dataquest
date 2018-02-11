@@ -11,5 +11,8 @@ Some projects made during attending the Data Scientist Path with DataQuest
 * [Visualizing Earnings Based On College Majors](https://github.com/helmutd/dataquest/blob/master/Visualizing%20Earnings%20Based%20on%20College%20Majors.ipynb)
 	* Using the pandas plotting functionality to explore data quickly using visualizations.
 
+* [Analyzing NYC High School Data](https://github.com/helmutd/dataquest/blob/master/Analyzing%20NYC%20High%20School%20Data.ipynb)
+	* New York City has a significant immigrant population and is very diverse, so comparing demographic factors such as race, income, and gender with SAT scores is a good way to determine whether the SAT is a fair test. For example, if certain racial groups consistently perform better on the SAT, we would have some evidence that the SAT is unfair.
+
 * [Star Wars Survey](https://github.com/helmutd/dataquest/blob/master/Star%20Wars%20Survey.ipynb)
 	* Analyzing data on Star Wars movies
