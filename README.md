@@ -10,3 +10,6 @@ Some projects made during attending the Data Scientist Path with DataQuest
 
 * [Visualizing Earnings Based On College Majors](https://github.com/helmutd/dataquest/blob/master/Visualizing%20Earnings%20Based%20on%20College%20Majors.ipynb)
 	* Using the pandas plotting functionality to explore data quickly using visualizations.
+
+* [Star Wars Survey](https://github.com/helmutd/dataquest/blob/master/Star%20Wars%20Survey.ipynb)
+	* Analyzing data on Star Wars movies
